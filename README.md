@@ -21,9 +21,7 @@ A collection of Python notebooks and projects focused on Data Analytics, includi
 ## 📁 Repository Structure
 ```
 Python-for-Data-Analytics/
-│── notebooks/
-│── datasets/
-│── projects/
+│── python for data analytics.ipynb
 │── README.md
 ```
 
@@ -32,5 +30,5 @@ This repository documents my learning journey in Data Analytics and showcases ha
 
 ## 👨‍💻 Author
 **Suraj Gupta**
-- GitHub: https://github.com/yourusername
-- LinkedIn: Add your LinkedIn profile here
+- GitHub: https://github.com/suraj9989
+- LinkedIn: https://www.linkedin.com/in/suraj-gupta-736174280
